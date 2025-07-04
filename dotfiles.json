@@ -1,0 +1,14 @@
+[
+  {
+    "computer": "legion15-popos22",
+    "dotfiles": [
+      "~/.config/kitty/kitty.conf",
+      "~/.config/kitty/custom.conf",
+      "~/.config/Code/User/keybindings.json",
+      "~/.config/Code/User/settings.json",
+      "~/.config/kinto/kinto.py",
+      "~/.zshrc",
+      "~/.oh-my-zsh/oh-my-zsh.sh"
+    ]
+  }
+]

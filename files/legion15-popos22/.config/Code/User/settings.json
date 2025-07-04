@@ -1,0 +1,9 @@
+// This configuration works in combination with kinto under PopOS
+
+{
+  "window.titleBarStyle": "custom",
+  "window.customMenuBarAltFocus": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": false
+}
